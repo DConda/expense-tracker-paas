@@ -6,8 +6,6 @@ This is a simple Flask web application deployed on a PaaS platform.
 
 - Add daily expenses
 - View all expenses
-- View one expense by ID
-- Delete expenses
 - View expense summary
 - Health check endpoint
 
