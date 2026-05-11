@@ -19,8 +19,6 @@ This is a simple Flask web application deployed on a PaaS platform.
 | GET | /health | Health check |
 | GET | /expenses | Get all expenses |
 | POST | /expenses | Add expense |
-| GET | /expenses/<id> | Get expense by ID |
-| DELETE | /expenses/<id> | Delete expense |
 | GET | /summary | Expense summary |
 
 ## Technology
